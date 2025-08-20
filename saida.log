@@ -1,0 +1,32 @@
+ 
+usuario@UEPB-00601874 MINGW64 ~/Documents/avaliacao-git (main)
+$ git log
+commit b3ee119768215a91a0e40d46a431dafb02dbcd40 (HEAD -> main, origin/main)
+Author: Tatiany <tatianydaniele@hotmail.com>
+Date:   Wed Aug 20 15:33:47 2025 -0300
+
+    arquivo finalizado
+
+commit 20589db72423e87ad4af6578bec8ed87364ab600
+Author: Tatiany <tatianydaniele@hotmail.com>
+Date:   Wed Aug 20 15:25:28 2025 -0300
+
+    arquivo final de avaliação
+
+commit 4c7733df37b954b0cab6046a8e2f1579326e4e5e
+Author: Tatiany <tatianydaniele@hotmail.com>
+Date:   Wed Aug 20 15:24:05 2025 -0300
+
+    alterado para nome completo
+
+commit 091efad0fe783a19426daa4834b0ab4d3c9f463e
+Author: Tatiany <tatianydaniele@hotmail.com>
+Date:   Wed Aug 20 15:21:08 2025 -0300
+
+    inserido nome completo
+
+commit 5714c728de3e0debf3fe7df2adad14b37677aae7 (origin/alteracao-02, origin/alteracao-01, alteracao-02, alteracao-01)
+Author: Tatiany <tatianydaniele@hotmail.com>
+Date:   Wed Aug 20 15:02:02 2025 -0300
+
+    commit inicial
