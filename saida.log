@@ -1,0 +1,17 @@
+usuario@UEPB-00601874 MINGW64 ~/Documents/avaliacao-git (alteracao-01)
+$ git merge alteracao-01
+Already up to date.
+
+usuario@UEPB-00601874 MINGW64 ~/Documents/avaliacao-git (alteracao-01)
+$ git log
+commit b3ee119768215a91a0e40d46a431dafb02dbcd40 (HEAD -> main, origin/main)
+Author: Tatiany <tatianydaniele@hotmail.com>
+Date:   Wed Aug 20 15:33:47 2025 -0300
+
+    arquivo finalizado
+
+commit 20589db72423e87ad4af6578bec8ed87364ab600
+Author: Tatiany <tatianydaniele@hotmail.com>
+Date:   Wed Aug 20 15:25:28 2025 -0300
+
+    arquivo final de avaliação
